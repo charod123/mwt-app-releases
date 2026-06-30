@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "1.0.1",
-  "build": 2,
-  "apk_url": "https://github.com/charod123/mwt-app-releases/releases/download/v1.0.1/mwt-1.0.1.apk",
-  "sha256": "4e0151a093da37e7bfe0ef5edbabfdba3938ab996a235dc48f92f0ce7174aa06",
+  "version": "1.0.3",
+  "build": 4,
+  "apk_url": "https://github.com/charod123/mwt-app-releases/releases/download/v1.0.3/mwt-1.0.3.apk",
+  "sha256": "2d2123ec7901cc6841d43fa133d1e384d001631143477c4eb50d4886c731cad2",
   "required": false,
-  "release_notes": "Fix MQTT connectivity in release builds and show the installed app version.",
-  "published_at": "2026-06-30T17:56:24+07:00"
+  "release_notes": "ทดสอบระบบอัปเดตภายในแอป พร้อมตรวจสอบไฟล์ด้วย SHA-256 ก่อนติดตั้ง",
+  "published_at": "2026-06-30T18:22:26+07:00"
 }
