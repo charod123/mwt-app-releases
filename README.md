@@ -17,4 +17,3 @@ GitHub Release assets and must never be committed directly to the repository.
 The app must ignore a manifest when its `build` is not greater than the
 installed build. For a newer build, `apk_url` and `sha256` must both be valid
 before the app offers the update.
-
