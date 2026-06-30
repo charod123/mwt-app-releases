@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": "1.0.3",
-  "build": 4,
-  "apk_url": "https://github.com/charod123/mwt-app-releases/releases/download/v1.0.3/mwt-1.0.3.apk",
-  "sha256": "2d2123ec7901cc6841d43fa133d1e384d001631143477c4eb50d4886c731cad2",
+  "version": "1.0.4",
+  "build": 5,
+  "apk_url": "https://github.com/charod123/mwt-app-releases/releases/download/v1.0.4/mwt-1.0.4.apk",
+  "sha256": "c1ad63c7065b6e1f0c27c46442341875fbcbf4fd4616f605f9acce8d2ce72b15",
   "required": false,
-  "release_notes": "ทดสอบระบบอัปเดตภายในแอป พร้อมตรวจสอบไฟล์ด้วย SHA-256 ก่อนติดตั้ง",
-  "published_at": "2026-06-30T18:22:26+07:00"
+  "release_notes": "ตัด audit log ประเภทเข้าสถานที่ออกจากแท็บเหตุการณ์ และซ่อนรายการเก่าที่ค้างในเครื่อง",
+  "published_at": "2026-06-30T18:44:18+07:00"
 }
