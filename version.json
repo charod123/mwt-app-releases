@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "version": "1.0.0",
+  "build": 1,
+  "apk_url": null,
+  "sha256": null,
+  "required": false,
+  "release_notes": "Initial MWT update channel setup",
+  "published_at": "2026-06-30T00:00:00+07:00"
+}
