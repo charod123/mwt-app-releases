@@ -2,9 +2,9 @@
   "schema_version": 1,
   "version": "1.0.0",
   "build": 1,
-  "apk_url": null,
-  "sha256": null,
+  "apk_url": "https://github.com/charod123/mwt-app-releases/releases/download/v1.0.0/mwt-1.0.0.apk",
+  "sha256": "6b3731e3ec6516f374f60e776972573a48bba73255efcf3b12d0f9b60cec8cd0",
   "required": false,
-  "release_notes": "Initial MWT update channel setup",
-  "published_at": "2026-06-30T00:00:00+07:00"
+  "release_notes": "Initial signed Android release for the MWT application.",
+  "published_at": "2026-06-30T17:26:03+07:00"
 }
